@@ -16,8 +16,6 @@ OVERVIEW OF PROJECT
 This is a python implementation of the paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or 
 Xs and Os.
 
-This project is from the **Jetbrain Academy** (https://www.jetbrains.com/academy/).
- 
 ## Features
 
 It is possible to play the game with the AI, with three levels.
