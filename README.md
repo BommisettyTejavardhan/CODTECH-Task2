@@ -68,11 +68,6 @@ Making move level "hard"
 Enter the coordinates: (x y) > 
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 
 
 ![project2 output](https://github.com/user-attachments/assets/b787eb73-8797-4f36-ada4-3dc35fcefaf6)
