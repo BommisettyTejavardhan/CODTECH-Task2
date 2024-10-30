@@ -73,4 +73,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-![Uploading project2 output.jpg…]()
+![project2 output](https://github.com/user-attachments/assets/759bd261-8e18-431e-ab0f-86ffc64bd6dd)
