@@ -47,7 +47,6 @@ The first player uses the "X" symbol, the second "O".
 If any of the player is human, the user should input 2 numbers that represent the cell on which user wants to make his 
 "X" or "O".
 
-```
 Input command: > start user hard
 ---------
 |       |
