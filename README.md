@@ -65,8 +65,7 @@ Making move level "hard"
 |   X   |
 |       |
 ---------
-Enter the coordinates: (x y) > 
-```
+
 
 
 
